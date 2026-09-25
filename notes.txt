@@ -2,3 +2,4 @@ Task 3 Progress Notes:
 - Created public repository "Intro-to-GitHub"
 - Generated README.md and sample code files
 - Next step: Clone repository locally and practice git push commands for Task 4.
+Local changes added via Git Bash.
